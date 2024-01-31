@@ -1,2 +1,0 @@
-# nannestad
-Viser fram nannestad
