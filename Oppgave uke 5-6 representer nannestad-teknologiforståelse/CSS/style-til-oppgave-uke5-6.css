@@ -1,0 +1,11 @@
+body{
+    background-color: lightblue;
+}
+
+h1 {
+    text-align: center;
+    border: 2px solid rgb(5, 96, 76); /* Setter en svart 2px solid border rundt innholdet */
+    padding: 10px; /* Legger til 10 piksler med padding innenfor boksen */
+    width: 300px; /* Setter bredden til boksen til 300 piksler (kan justeres etter behov) */
+    margin: 0 auto; /* Sentrerer boksen horisontalt */
+}
